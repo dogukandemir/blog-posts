@@ -24,9 +24,7 @@ Company Account ve Personal Account olmak üzere iki hesap türü vardır. Hesap
 
 
 
-Bu adımda kredi kartı bilginizi girmeniz gerekiyor. Ücretsiz servisleri kullandığınız sürece Amazon kredi kartınızdan herhangi bir ücret kesintisi yapmaz.
-
-Not: Amazon bu adımda kredi kartınızdan herhangi bir kesinti yapmaz.
+Bu adımda kredi kartı bilginizi girmeniz gerekiyor. Ücretsiz servisleri kullandığınız sürece Amazon kredi kartınızdan üyelik aşamasında herhangi bir ücret kesintisi yapmaz.
 
 ![Payment Information](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-hesabi-olusturma/images/payment-information-panel.png)
 
@@ -38,7 +36,7 @@ Identity Verification adımında telefon numaranızı girip "Call Me Now" butonu
 
 
 
-"Call Me Now" butonuna tıkladıktan sonra Amazon sizi arayıp Call in progress panelinde bulunan 4 haneli pin numarasını soracaktır. Bu sayıları tuşlayarak veya İngilizce şekilde söyleyebilirsiniz.
+"Call Me Now" butonuna tıkladıktan sonra Amazon sizi arayıp Call in progress panelinde bulunan 4 haneli pin numarasını soracaktır. Bu sayıları tuşlayarak veya İngilizce şekilde söyleyerek bu adımı geçebilirsiniz.
 
 ![Call In Progress](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-hesabi-olusturma/images/call-in-progress.png)
 

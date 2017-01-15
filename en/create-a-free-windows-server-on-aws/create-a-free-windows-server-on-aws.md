@@ -1,6 +1,6 @@
 # Create a Free Windows Server on AWS
 
-If you don't have an AWS account, you can create it by reading my [Create an AWS Account](http://dogukandemir.com/en/create-an-aws-account/) post. IF you create your account, login to your account, go to https://console.aws.amazon.com address and select EC2 under Services.
+If you don't have an AWS account, you can create it by reading my [Create an AWS Account](http://dogukandemir.com/en/create-an-aws-account/) post. IF you create your account, login to your account, go to [https://console.aws.amazon.com](https://console.aws.amazon.com) address and select EC2 under Services.
 
 ![Services EC2](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/console-services-compute-ec2.png)
 
@@ -30,7 +30,7 @@ Note: You can make changes to the settings in these steps, but you should not ex
 
 
 
-We will make some changes in "Configure Security Group" step. Configure Security Group adımına geldiğimizde burada bazı değişiklikler yapacağız. To provide RDP, HTTP and HTTPS access to our server, we need to add these rules (RDP attached by default) first. In addition, you can add 8080 and 3000 ports to use for development. If you want to access your server from anywhere, you need to select "Anywhere" as "Source" property. If you want to restrict access, you can enter IP address by CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation after selecting "Custom" or "My IP". After you have done your settings, click "Review and Launch" button.
+We will make some changes in "Configure Security Group" step. To provide RDP, HTTP and HTTPS access to our server, we need to add these rules (RDP attached by default) first. In addition, you can add 8080 and 3000 ports to use for development. If you want to access your server from anywhere, you need to select "Anywhere" as "Source" property. If you want to restrict access, you can enter IP address by CIDR ([Classless Inter-Domain Routing](https://en.wikipedia.org/wiki/Classless_Inter-Domain_Routing)) notation after selecting "Custom" or "My IP". After you have done your settings, click "Review and Launch" button.
 
 ![Configure Security Group](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/security-group.png)
 
@@ -42,7 +42,7 @@ In the last step, click "Launch" button after review your server properties.
 
 
 
-In order to connect to the server we created, you need to have a key pair file. To create a key pair file click "Create a new key pair", give a name in "Key pair name" field and click "Download Key Pair" button. Key pair dosyasını oluşturmak için "Create a new key pair" seçip "Key pair name" alanına istediğiniz bir isim verdikten sonra "Download Key Pair" butonuna tıklayarak dosyayı indirmeniz gerekiyor. After download of your file, click the "Launch Instances" button.
+In order to connect to the server, you need to have a key pair file. To create a key pair file click "Create a new key pair", give a name in "Key pair name" field and click "Download Key Pair" button. Key pair dosyasını oluşturmak için "Create a new key pair" seçip "Key pair name" alanına istediğiniz bir isim verdikten sonra "Download Key Pair" butonuna tıklayarak dosyayı indirmeniz gerekiyor. After download of your file, click the "Launch Instances" button.
 
 Note: You need to save key pair file where you have access and you should not lose your key pair file. You can download this file only the first time you create it. There is no panel you can download later.
 
