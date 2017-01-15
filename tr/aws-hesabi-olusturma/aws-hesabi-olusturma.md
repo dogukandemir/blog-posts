@@ -1,6 +1,6 @@
 # AWS Hesabı Oluşturma #
 
-AWS (Amazon Web Services) hesabı oluşturmak için, https://aws.amazon.com/ adresine giriş yaptıktan sonra "Create an AWS Account" butonuna tıklayın.
+AWS (Amazon Web Services) hesabı oluşturmak için, [https://aws.amazon.com](https://aws.amazon.com) adresine giriş yaptıktan sonra "Create an AWS Account" butonuna tıklayın.
 
 [![Create an AWS Account](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-hesabi-olusturma/images/create-an-aws-account-button.png)](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct)
 

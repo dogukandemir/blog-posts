@@ -1,6 +1,6 @@
 # Create an AWS Account
 
-To create an AWS (Amazon Web Services) account, you need to open https://aws.amazon.com/ and click "Create an AWS Account" button.
+To create an AWS (Amazon Web Services) account, you need to open [https://aws.amazon.com](https://aws.amazon.com) and click "Create an AWS Account" button.
 
 [![Create an AWS Account](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-an-aws-account/images/create-an-aws-account-button.png)](https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct)
 
