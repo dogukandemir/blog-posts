@@ -64,7 +64,7 @@ Sunucunuzun hazır olması bir kaç dakika sürüyor. Son durumunu "Instance Sta
 
 Sunucunuzun diğer sunucularınızla karışmaması için isimlendirebilirsiniz. Name alanına geldiğinizde gözüken kalem simgesine tıkladığınızda sunucunuza istediğiniz adı verebilirsiniz.
 
-![Edit Name](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-uzerinde-ucretsiz-windows-server-olusturma/images/view-instances-edit-name-button.png) ![Name Edit](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-uzerinde-ucretsiz-windows-server-olusturma/images/view-instances-edit-name-done-button.png)
+![Edit Name](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-uzerinde-ucretsiz-windows-server-olusturma/images/view-instances-edit-name-button.png)![Name Edit](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-uzerinde-ucretsiz-windows-server-olusturma/images/view-instances-edit-name-done-button.png)
 
 
 

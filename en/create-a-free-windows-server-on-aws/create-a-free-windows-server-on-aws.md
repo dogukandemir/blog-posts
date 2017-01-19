@@ -64,7 +64,7 @@ It takes a few minutes to be ready. You can see the state of your server in "Ins
 
 You can give a name to your server to easily find it when you have lots of servers. When you hover "Name" field, there will be a pencil icon. Click pencil icon and give a name to your server.
 
-![Edit Name](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/view-instances-edit-name-button.png) ![Name Edit](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/view-instances-edit-name-done-button.png)
+![Edit Name](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/view-instances-edit-name-button.png)![Name Edit](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/view-instances-edit-name-done-button.png)
 
 
 
