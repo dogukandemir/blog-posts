@@ -50,7 +50,7 @@ Note: You need to save key pair file where you have access and you should not lo
 
 
 
-Congratulations, your server is in preparation phase. Click the "View Instances" button to see status of your server.
+Your server is in preparation phase. Click the "View Instances" button to see status of your server.
 
 [![View Instance](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/view-instances.png)](https://console.aws.amazon.com/ec2/v2/home?#Instances:sort=instanceId)
 

@@ -50,7 +50,7 @@ Not: Key pair dosyanızı kaybetmeyeceğiniz ve erişebileceğiniz bir yere kayd
 
 
 
-Tebrikler sunucunuz hazırlanma aşamasına geçti. Sunucunuzun son durumunu görmek için "View Instances" butonuna tıklayın.
+Sunucunuz hazırlanma aşamasına geçti. Sunucunuzun son durumunu görmek için "View Instances" butonuna tıklayın.
 
 [![View Instance](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/aws-uzerinde-ucretsiz-windows-server-olusturma/images/view-instances.png)](https://console.aws.amazon.com/ec2/v2/home?#Instances:sort=instanceId)
 
