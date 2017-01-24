@@ -1,6 +1,6 @@
 # Create a Free Windows Server on AWS
 
-If you don't have an AWS account, you can create it by reading my [Create an AWS Account](http://dogukandemir.com/en/create-an-aws-account/) post. IF you create your account, login to your account, go to [https://console.aws.amazon.com](https://console.aws.amazon.com) address and select EC2 under Services.
+If you don't have an AWS account, you can create it by reading my [Create an AWS Account](http://dogukandemir.com/en/create-an-aws-account/) post. If you create your account, login to your account, go to [https://console.aws.amazon.com](https://console.aws.amazon.com) address and select EC2 under Services.
 
 ![Services EC2](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/en/create-a-free-windows-server-on-aws/images/console-services-compute-ec2.png)
 
