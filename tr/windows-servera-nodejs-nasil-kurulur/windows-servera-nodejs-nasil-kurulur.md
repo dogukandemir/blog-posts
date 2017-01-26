@@ -1,6 +1,6 @@
 # Windows Servera Node.js Nasıl Kurulur?
 
-Sunucunuzda bulunan Internet Explorer yardımıyla [https://nodejs.org/](https://nodejs.org/) adresine girip en son Node.js sürümünü indirin.
+AWS üzerinde oluşturduğunuz Windows sunucunuza bağlandıktan sonra Internet Explorer yardımıyla [https://nodejs.org](https://nodejs.org) adresine girip en son Node.js sürümünü indirin. Eğer Windows sunucunuza nasıl bağlanacağınızı bilmiyorsanız [AWS Üzerinde Bulunan Windows Servera Bağlanma](http://dogukandemir.com/tr/aws-uzerinde-bulunan-windows-servera-baglanma/) başlıklı yazımı okuyarak bağlanabilirsiniz.
 
 ![node.js Download](https://raw.githubusercontent.com/dogukandemir/blog-posts/master/tr/windows-servera-nodejs-nasıl-kurulur/images/nodejs-org-download.png)
 
