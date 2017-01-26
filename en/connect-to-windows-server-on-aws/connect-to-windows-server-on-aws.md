@@ -36,4 +36,4 @@ When you connect to your server, you can see details of your server in upper rig
 
 
 
-Congratulations. You have successfully connected to your Windows server. Next blog post will be about how to install node.js to this server, we will create a hello world application and learn how to access that application.
+Congratulations. You have successfully connected to your Windows server. Next blog post will be about how to install node.js to this server.

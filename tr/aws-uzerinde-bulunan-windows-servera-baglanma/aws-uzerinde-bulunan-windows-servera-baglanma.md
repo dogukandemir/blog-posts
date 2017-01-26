@@ -36,4 +36,4 @@ Bağlandığınızda sunucunuzun özelliklerini ekranın sağ üst köşesinde g
 
 
 
-Tebrikler. Windows sunucunuza başarıyla bağlandınız. Sonraki yazımda sunucuya node.js kurulumunu ve bir hello world uygulaması yapıp bu uygulamaya nasıl erişeceğimizi anlatacağım.
+Tebrikler. Windows sunucunuza başarıyla bağlandınız. Sonraki yazımda sunucuya node.js kurulumunu anlatacağım.
