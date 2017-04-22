@@ -11,6 +11,7 @@ Windows sunucunuza bağlandıktan sonra Başlat menüsünde bulunan Node.js klas
 Komut istemi kullanımını bilmeyenler için Node.js komut isteminden bağımsız olarak ekranda kullandığım 2 komuttan bahsetmek faydalı olacaktır.
 
 cd: change directory (dizini değiştir)
+
 mkdir: make directory (dizin oluştur)
 
 "cd C:\" komutu C sürücüsünün ana dizinine geçmenizi sağlayacak.
