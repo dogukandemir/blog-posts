@@ -8,7 +8,7 @@ In "Node.js command prompt" screen, you can create your first application with t
 
 
 
-For those who do not know how to use command prompts, I want to explain 2 commands I use on the screen, regardless of the Node.js command prompt.
+For those who do not know how to use command prompt, I want to explain 2 commands I use on the screen, regardless of the Node.js command prompt.
 
 cd: change directory
 mkdir: make directory
