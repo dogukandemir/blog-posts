@@ -21,4 +21,4 @@ C:\nodejs\helloworld dizinini oluşturup bu dizine girdiğinizde "npm init" komu
 
 "echo console.log("hello world"); > index.js" komutu ile bulunduğunuz dizinde index.js adında bir dosya oluşturup bu dosyanın içine "console.log("hello world");" yazdırıyorsunuz. Bu komut içerisindeki index.js değeri entry point olarak girdiğiniz değerle aynı olmak zorundadır. Son olarak "node index" komutuyla uygulamanızı çalıştırdığınızda hemen alt satırda "console.log" kodu ile ekrana yazdırdığınız "hello world" yazısını göreceksiniz.
 
-Tebrikler AWS üzerinde bulunan Windows sunucunuzda Node.js kurulumu sonrası ilk uygulamanızı çalıştırdınız. Sonraki yazımda bu uygulamamıza sunucu dışındaki bir tarayıcıdan nasıl erişeceğinizi anlatacağım.
+Tebrikler AWS üzerinde bulunan Windows sunucunuzda Node.js kurulumu sonrası ilk uygulamanızı çalıştırdınız.

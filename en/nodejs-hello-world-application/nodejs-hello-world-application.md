@@ -21,4 +21,4 @@ Once you have created the C:\nodejs\helloworld directory and go to this director
 
 "echo console.log("hello world"); > index.js" command will create a file named index.js inside your current directory and writes "console.log("hello world");" into index.js file. The index.js value in this command must be the same as the entry point value. Finally, when you run your application with the "node index" command, you will see "hello world" text which you print it on the screen with "console.log" code line.
 
-Congratulations, you have run your first application after installing Node.js in your Windows server on AWS. Next blog post will be about how to access this application from outside of the server via browser.
+Congratulations, you have run your first application after installing Node.js in your Windows server on AWS.
