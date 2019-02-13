@@ -42,7 +42,7 @@ In the last step, click "Launch" button after review your server properties.
 
 
 
-In order to connect to the server, you need to have a key pair file. To create a key pair file click "Create a new key pair", give a name in "Key pair name" field and click "Download Key Pair" button. Key pair dosyasını oluşturmak için "Create a new key pair" seçip "Key pair name" alanına istediğiniz bir isim verdikten sonra "Download Key Pair" butonuna tıklayarak dosyayı indirmeniz gerekiyor. After download of your file, click the "Launch Instances" button.
+In order to connect to the server, you need to have a key pair file. To create a key pair file click "Create a new key pair", give a name in "Key pair name" field and click "Download Key Pair" button. After download of your file, click the "Launch Instances" button.
 
 Note: You need to save key pair file where you have access and you should not lose your key pair file. You can download this file only the first time you create it. There is no panel you can download later.
 
